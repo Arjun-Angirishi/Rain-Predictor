@@ -1,6 +1,8 @@
 Flask
 gunicorn
 pandas
+pickle
 numpy
 sklearn
 catboost
+xgboost
